@@ -142,6 +142,7 @@ print(response.json())
 - **Facebook Messenger**: Connect your Facebook page
 - **Discord**: Add as a server bot
 - **WordPress**: Plugin available for easy installation
+- **Calendly**:https://calendly.com/othnieljunias/30min
 
 ## 💰 Pricing & Plans
 
